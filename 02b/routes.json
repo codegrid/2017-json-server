@@ -1,0 +1,10 @@
+{
+  "/cgi-bin/scores.php": "/scores",
+  "/cgi-bin/scores.php\\?*": "/scores?$1",
+
+  "/api/skills/scores": "/scores",
+  "/api/skills/scores\\?*": "/scores?$1",
+  "/api/skills/scores/*": "/scores/$1",
+
+  "/api/*": "/$1"
+}

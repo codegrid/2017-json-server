@@ -1,0 +1,13 @@
+{
+  "users": [
+    { "id": 1, "name": {"last": "brian", "first": "setzer"}},
+    { "id": 2, "name": {"last": "brian", "first": "adams"}},
+    { "id": 3, "name": {"last": "gary", "first": "setzer"}}
+  ],
+  "scores": [
+    {"id":1, "name": "javascript", "score": 80},
+    {"id":2, "name": "css", "score": 50},
+    {"id":3, "name": "html", "score": 50},
+    {"id":4, "name": "node.js", "score": 30}
+ ]
+}
