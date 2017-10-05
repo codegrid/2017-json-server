@@ -1,0 +1,6 @@
+- request:
+    url: /api/users/:id
+    method: GET
+  response:
+    status: 200
+    file: "api/users/<%= params.id %>.json"

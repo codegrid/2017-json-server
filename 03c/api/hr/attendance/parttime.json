@@ -1,0 +1,7 @@
+{
+  "parttime": [
+    {"id":1, "date": "2017-08-01", "time": 5.75, "employeeId": 2},
+    {"id":2, "date": "2017-08-02", "time": 4.75, "employeeId": 2},
+    {"id":3, "date": "2017-08-03", "time": 5.75, "employeeId": 2}
+  ]
+}

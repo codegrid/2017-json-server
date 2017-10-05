@@ -1,0 +1,7 @@
+{
+  "fulltime": [
+    {"id":1, "date": "2017-08-01", "time": 7.75, "employeeId": 1},
+    {"id":2, "date": "2017-08-02", "time": 7.75, "employeeId": 1},
+    {"id":3, "date": "2017-08-03", "time": 6.75, "employeeId": 1}
+  ]
+}
